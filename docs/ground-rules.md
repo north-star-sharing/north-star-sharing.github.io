@@ -1,3 +1,10 @@
+---
+title: Ground Rules
+description: Rules for team coordination and project management
+menu: Ground Rules
+order: 10
+---
+
 # Ground Rules
 
 ## Contact info
