@@ -1,3 +1,10 @@
+---
+title: Project Overview
+description: This is the general overview of North Star Sharing
+menu: Overview
+order: 0
+---
+
 ## Summary
 
 At North Star Sharing we aim to bring the furthest reaches of the vast riches from outer space
