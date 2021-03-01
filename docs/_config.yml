@@ -1,11 +1,10 @@
-# remote_theme: jekyll-theme-leap-day
-theme: jekyll-theme-leap-day
-# repository_links:
-#  enabled: true
-# page_navigator:
- # enabled: true
-# titles_from_headings:
- # enabled: false
+remote_theme: ddc-java/ddc-day
+repository_links:
+  enabled: true
+page_navigator:
+  enabled: true
+titles_from_headings:
+  enabled: false
 
 # Modify the contents below for the specific project.
 
