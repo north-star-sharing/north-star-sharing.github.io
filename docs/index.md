@@ -2,7 +2,7 @@
 title: Project Overview
 description: This is the general overview of North Star Sharing
 menu: Overview
-order: 0
+order: 10
 ---
 
 ## Summary

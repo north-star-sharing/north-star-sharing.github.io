@@ -2,7 +2,7 @@
 title: Ground Rules
 description: Rules for team coordination and project management
 menu: Ground Rules
-order: 10
+order: 20
 ---
 
 # Ground Rules
