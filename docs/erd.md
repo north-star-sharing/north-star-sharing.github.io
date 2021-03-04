@@ -5,4 +5,4 @@ menu: ERD
 order: 30
 ---
 
-[!(docs/img/erd.svg)](docs/erd.md)
+[![Entity Relationship Diagram](docs/img/erd.svg)](docs/img/erd.pdf)
