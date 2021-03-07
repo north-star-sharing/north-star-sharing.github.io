@@ -8,9 +8,22 @@ version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
+    google()
 }
 
 dependencies {
+
+    // ReactiveX components
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.20'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+
+//    // Room Components
+//    def roomVersion = '2.2.6'
+//    implementation "androidx.room:room-runtime:$roomVersion"
+//    annotationProcessor "androidx.room:room-compiler:$roomVersion"
+//    implementation "androidx.room:room-rxjava2:$roomVersion"
+
+    // Junit Test Dependencies
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
 }
