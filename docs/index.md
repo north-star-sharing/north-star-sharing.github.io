@@ -100,7 +100,7 @@ guide users to object-
 <ul>
 
   <li>Database of celestial coordinates of the most popular objects - 
-    (https://github.com/astrocatalogs/OACAPI)</li><br>
+    (https://github.com/astrocatalogs/OACAPI) & (https://github.com/astronexus/HYG-Database)</li><br>
 
 </ul>
 
