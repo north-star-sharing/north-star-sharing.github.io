@@ -1,7 +1,7 @@
 ### IntelliJ/Android Studio ###
 
 # - metadata
-/.idea/
+# /.idea/
 *.iml
 
 # - temporary files
