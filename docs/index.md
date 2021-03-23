@@ -5,6 +5,11 @@ menu: Overview
 order: 10
 ---
 
+## Team roster
+
+* Russell Brazell
+* Daniel Arbach
+
 ## Summary
 
 At North Star Sharing we aim to bring the furthest reaches of the vast riches from outer space
@@ -13,6 +18,12 @@ night sky, or the highly technical imagines produced by telescopes like The Gian
 we’ve got you covered. Easily share the captivating imagines you take alongside with the Celestial
 Coordinates to a community of fellow gazers! Explore other members photos and find them for yourself
 with the attached coordinates and help from your phone to point you in the right direction.
+
+After signing in, users will be able to take pictures of celestial objects and attach tags for easy
+categorization and searching. A user's own pictures will be displayed in a social media-style feed.
+Users may search for pictures of specific celestial objects from a robust list of available tags.
+Using a tag, a user may locate a celestial object using their camera, and the app will point them
+to the correct patch of night sky. (The heavens await!)
 
 ## Intended users
 
@@ -110,5 +121,8 @@ guide users to object-
 
   <li>Ability to follow other users</li>
   <li>Add interface to instruct smart-telescopes where to look</li>
+  <li>Bookmark favorite images</li>
+  <li>Social media feed of other users' pictures.</li>
+  <li>Comment support for each picture.</li>
 
 </ul>
