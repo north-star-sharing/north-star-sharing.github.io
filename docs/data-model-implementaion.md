@@ -7,8 +7,16 @@ order: 40
 
 ## Database and DAO classes
 
-[North Star Sharing Database]()<br>
+* [North Star Sharing Database]()
 
 
-[DDL Code Block]()<br>
+* [DDL Code Block]()
+
+
+* Repositories:
+  
+  * [UserRepository](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/model/dao/UserRepository.java)
+  * [GalleryRepository](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/model/dao/GalleryRepository.java)
+  * [ImageRepository](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/model/dao/ImageRepository.java)
+  * [CelestialObjectRepository](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/model/dao/CelestialObjectRepository.java)
 
