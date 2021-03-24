@@ -1,5 +1,5 @@
 ---
-title: Data Model Implementaion 
+title: Data Model Implementation 
 description: How the DAO's work to sort and handle the database
 menu: Database 
 order: 40
