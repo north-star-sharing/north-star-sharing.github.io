@@ -9,10 +9,6 @@ order: 40
 
 * [North Star Sharing Database]()
 
-
-* [DDL Code Block]()
-
-
 * Repositories:
   
   * [UserRepository](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/model/dao/UserRepository.java)
