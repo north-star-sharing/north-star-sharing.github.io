@@ -7,8 +7,8 @@ order: 10
 
 ## Team roster
 
-* Russell Brazell
-* Daniel Arbach
+* Russell Brazell - [Github.com/rbrazell1](https://github.com/rbrazell1), [LinkedIn.com/in/russell-brazell-abq](https://www.linkedin.com/in/russell-brazell-abq/)
+* Daniel Arbach - [Github.com/darbach](https://github.com/darbach), [LinkedIn.com/in/daniel-arbach](https://www.linkedin.com/in/daniel-arbach/)
 
 ## Summary
 
@@ -18,6 +18,10 @@ night sky, or the highly technical imagines produced by telescopes like The Gian
 we’ve got you covered. Easily share the captivating imagines you take alongside with the Celestial
 Coordinates to a community of fellow gazers! Explore other members photos and find them for yourself
 with the attached coordinates and help from your phone to point you in the right direction.
+
+> TODO: 1 or more paragraphs summarizing your aims or motivations for selecting the given topic for
+> your app. That is, why did you choose to develop this particular app, and why is this (at least
+> potentially) a useful or interesting app?
 
 After signing in, users will be able to take pictures of celestial objects and attach tags for easy
 categorization and searching. A user's own pictures will be displayed in a social media-style feed.
@@ -31,20 +35,20 @@ to the correct patch of night sky. (The heavens await!)
 
   <li>A person who loves taking special photos of the night sky and other celestial events</li><br>
 
-<ul><li>As a person who loves to share the stunning pictures I take I want a platform dedicated to
-sharing pictures of the sky so that I can be inspired and share more of what
-I love with people that will appreciate it.</li></ul><br>
+<ul><li>As a person who loves to share the stunning pictures I take, I want a platform dedicated to
+sharing pictures of the sky so that I can be inspired and share more of what I love with people that
+will appreciate it.</li></ul><br>
 
   <li>A scientist looking to share information to help further discoveries</li><br>
 
-<ul><li>As a scientist I understand that it is a privilege to have access to the worlds most powerful 
-telescopes and I want to share those rare opportunities with the rest of the star gazing community
-so that I can have more people helping to unlock the mysteries of space.</li></ul><br>
+<ul><li>As a scientist, I understand that it is a privilege to have access to the worlds most
+powerful telescopes and I want to share those rare opportunities with the rest of the star gazing
+community so that I can have more people helping to unlock the mysteries of space.</li></ul><br>
 
   <li>A beginner star gazer looking to find beautiful stellar objects in the night sky</li><br>
 
-<ul><li>As someone who is just getting into star gazing I want to have access to a full library of 
-interesting objects with coordinates so that I can find them and see them for myself. </li></ul><br>
+<ul><li>As someone who is just getting into star gazing, I want to have access to a full library of 
+interesting objects with coordinates so that I can find them and see them for myself.</li></ul><br>
 
 </ol>
 
