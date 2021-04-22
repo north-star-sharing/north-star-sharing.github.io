@@ -51,3 +51,9 @@ order: 50
 
 * [Storage Service](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/service/StorageService.java) <br>
 
+
+### Javadocs
+
+[Client](../docs/api-client)
+
+[Server](../docs/api-service)
