@@ -154,6 +154,6 @@ limitations under the License.
 
 --------
 
-### [LICENSE](docs/work/license.md)
+### [LICENSE](../work/license.md)
 
-### [NOTICE](docs/work/notice.md)
+### [NOTICE](../work/notice.md)
