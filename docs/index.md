@@ -212,6 +212,6 @@ limitations under the License.
 
 ---
 
-[LICENSE](../license.md)
+[LICENSE](license.md)
 
-[NOTICE](../notice.md)
+[NOTICE](notice.md)
