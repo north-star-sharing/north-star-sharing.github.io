@@ -2,10 +2,12 @@
 title: Data Model Implementation 
 description: How the DAO's work to sort and handle the database
 menu: Database 
-order: 40
+order: 50
 ---
 
 ## Database and DAO classes
+
+NOTE: COMBINE WITH rest.md into a single "Code implmentation" page.
 
 * [North Star Sharing Database]()
 

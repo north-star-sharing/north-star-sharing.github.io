@@ -1,6 +1,8 @@
 ---
-title: DDL Code Block
-description: A page holding a fenced code block version of the DDL
+title: DDL
+description: Formatted code block of database create scripts
+menu: DDL
+order: 40
 ---
 
 ## DDL Code Block
