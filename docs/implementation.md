@@ -5,6 +5,12 @@ menu: Java Classes
 order: 50
 ---
 
+## Javadocs
+
+[Client](../docs/api-client)
+
+[Server](../docs/api-service)
+
 ## Model
 
 * Service Repositories:
@@ -27,7 +33,7 @@ order: 50
   
     * [Celestial Object Entity](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/model/entity/Gallery.java) <br>
 
-### REST Controllers
+## REST Controllers
 
 * [User Controller](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/controller/UserController.java) <br>
 
@@ -50,10 +56,3 @@ order: 50
 * [Local Storage Service](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/service/LocalFilesystemStorageService.java) <br>
 
 * [Storage Service](https://github.com/north-star-sharing/north-star-sharing-service/blob/main/src/main/java/edu/cnm/deepdive/northstarsharing/service/StorageService.java) <br>
-
-
-### Javadocs
-
-[Client](../docs/api-client)
-
-[Server](../docs/api-service)

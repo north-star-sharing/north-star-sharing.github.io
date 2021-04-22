@@ -2,10 +2,12 @@
 title: Copyright Notices
 description: List of all licenses for project and support libraries
 menu: Notice
-order: 60
+order: 80
 ---
 
-# Copyright 2021 Daniel Arbach, Russell Brazell
+## North Star Sharing
+
+Copyright 2021 Daniel Arbach, Russell Brazell
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -21,7 +23,7 @@ limitations under the License.
 
 ---------
 
-# Android standard libraries, support libraries, Material components, Google Play
+## Android standard libraries, support libraries, Material components, Google Play
 
 Copyright (C) 2007–present The Android Open Source Project
 
@@ -39,7 +41,7 @@ limitations under the License.
 
 ---------
 
-# ReactiveX RxJava2 and RxAndroid
+## ReactiveX RxJava2 and RxAndroid
 
 Copyright (c) 2016-present, RxJava Contributors.
 
@@ -57,7 +59,7 @@ limitations under the License.
 
 ---------
 
-# Google Gson
+## Google Gson
 
 Copyright 2008 Google Inc.
 
@@ -75,7 +77,7 @@ limitations under the License.
 
 ---------
 
-# Picasso
+## Picasso
 
 MIT License
 
@@ -101,9 +103,7 @@ SOFTWARE.
 
 ---------
 
-# SquareUp -
-# RetroFit
-# OKHttp
+## SquareUp RetroFit & OKHttp
 
 Copyright 2013 Square, Inc.
 
@@ -121,13 +121,13 @@ limitations under the License.
 
 ---------
 
-# Junit
+## Junit
 
 Open Source
 
 ---------
 
-# Maven
+## Maven
 
 Copyright 2010, JA-SIG, Inc.
 This project includes software developed by Jasig.
@@ -216,13 +216,13 @@ http://code.google.com/p/maven-license-plugin/
 
 ---------
 
-# Android -
-#   AndroidX
+## Android AndroidX
 
 Open Source
 
 ---------
-# Spring Framework and Spring boot
+
+## Spring Framework and Spring boot
 
 NOTICE file corresponding to section 4 d of the Apache License,
 Version 2.0, in this case for the Spring Framework distribution.
@@ -241,7 +241,7 @@ or juergen.hoeller@interface21.com.
 
 ---------
 
-# Apache Derby
+## Apache Derby
 
 =  NOTICE file corresponding to section 4(d) of the Apache License,
 ==  Version 2.0, in this case for the Apache Derby distribution.
@@ -539,7 +539,7 @@ LICENSE: Apache 2.0
 
 COPYRIGHT NOTICE
 
-# Jackson JSON processor
+## Jackson JSON processor
 
 Jackson is a high-performance, Free/Open Source JSON processing library.
 

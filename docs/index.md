@@ -19,10 +19,6 @@ we’ve got you covered. Easily share the captivating imagines you take alongsid
 Coordinates to a community of fellow gazers! Explore other members photos and find them for yourself
 with the attached coordinates and help from your phone to point you in the right direction.
 
-> TODO: 1 or more paragraphs summarizing your aims or motivations for selecting the given topic for
-> your app. That is, why did you choose to develop this particular app, and why is this (at least
-> potentially) a useful or interesting app?
-> 
 The topic of this app was chosen, because the members of our team share a love of science,
 particularly the exploration of outer space. We felt that there was a niche in hobby astronomers to
 share their photos and provide a convenient method to search and categorize images by
@@ -37,9 +33,9 @@ Users may search for pictures of specific celestial objects from a robust list o
 Using a tag, a user may locate a celestial object using their camera, and the app will point them
 to the correct patch of night sky. (The heavens await!)
 
-### [Build Instructions](../build.md)
+### [Build Instructions](build.md)
 
-### [User Instructions](../instructions.md)
+### [User Instructions](instructions.md)
 
 ### [OverView](../pdf/overview.pdf) 
 
