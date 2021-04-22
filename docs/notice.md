@@ -2,7 +2,7 @@
 title: Copyright Notices
 description: List of all licenses for project and support libraries
 menu: Notice
-order: 60
+order: 80
 ---
 
 # Copyright 2021 Daniel Arbach, Russell Brazell

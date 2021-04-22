@@ -1,3 +1,10 @@
+---
+title: User Instructions
+description: How to use North Star Sharing
+menu: Instructions
+order: 70
+---
+
 # Basic User Instructions
 
 ### 1. Start by signing in with Google sign in(this is not optional).

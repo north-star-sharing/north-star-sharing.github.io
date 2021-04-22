@@ -37,9 +37,9 @@ Users may search for pictures of specific celestial objects from a robust list o
 Using a tag, a user may locate a celestial object using their camera, and the app will point them
 to the correct patch of night sky. (The heavens await!)
 
-### [Build Instructions](../build.md)
+### [Build Instructions](build.md)
 
-### [User Instructions](../instructions.md)
+### [User Instructions](instructions.md)
 
 ### [OverView](../pdf/overview.pdf) 
 
