@@ -37,11 +37,15 @@ Users may search for pictures of specific celestial objects from a robust list o
 Using a tag, a user may locate a celestial object using their camera, and the app will point them
 to the correct patch of night sky. (The heavens await!)
 
-## [Build Instructions](../build.md)
+### [Build Instructions](../build.md)
 
-## [User Instructions](../instructions.md)
+### [User Instructions](../instructions.md)
 
 ### [OverView](../pdf/overview.pdf) 
+
+### [Technology Stack](../pdf/stack.pdf)
+
+### [REST Service Endpoints](../pdf/endpoints.pdf)
 
 ## Intended users
 
@@ -158,7 +162,7 @@ guide users to object](https://developer.android.com/guide/topics/sensors/sensor
 
 </ul>
 
-  ### Stretch goals
+### Stretch goals
 
 <ul>
 
@@ -172,7 +176,7 @@ guide users to object](https://developer.android.com/guide/topics/sensors/sensor
 
 </ul>
 
-  ### Possible enhancements
+### Possible enhancements
 
 <ul>
 
@@ -198,7 +202,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+> <http://www.apache.org/licenses/LICENSE-2.0>
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -208,6 +212,4 @@ limitations under the License.
 
 ---
 
-### [LICENSE](../license.md)
-
-### [NOTICE](../notice.md)
+[NOTICE](notice.md)

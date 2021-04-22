@@ -1,3 +1,10 @@
+---
+title: Copyright Notices
+description: List of all licenses for project and support libraries
+menu: Notice
+order: 60
+---
+
 # Copyright 2021 Daniel Arbach, Russell Brazell
 
 Licensed under the Apache License, Version 2.0 (the "License");
