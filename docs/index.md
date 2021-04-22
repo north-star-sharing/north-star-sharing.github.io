@@ -22,6 +22,9 @@ with the attached coordinates and help from your phone to point you in the right
 > TODO: 1 or more paragraphs summarizing your aims or motivations for selecting the given topic for
 > your app. That is, why did you choose to develop this particular app, and why is this (at least
 > potentially) a useful or interesting app?
+> 
+The topic of this app was chosen, because the members of our team share a love of science,
+particularly the exploration of outer space. The 
 
 After signing in, users will be able to take pictures of celestial objects and attach tags for easy
 categorization and searching. A user's own pictures will be displayed in a social media-style feed.

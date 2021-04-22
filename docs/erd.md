@@ -6,4 +6,3 @@ order: 30
 ---
 
 [![Entity Relationship Diagram](../img/erd.svg)](../pdf/erd.pdf)<br>
-
