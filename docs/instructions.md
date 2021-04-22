@@ -2,6 +2,8 @@
 
 ### 1. Start by signing in with Google sign in(this is not optional).
 
+#### 1.1 You _must_ accept all the permissions at this point, or the app will crash.
+
 ### 2. Once on the home screen you will see a floating action button, click it to be taken to the camera.
 
 #### 2.1 Take a picture of the celestial object you're interested in. 
