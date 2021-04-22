@@ -144,19 +144,23 @@ guide users to object](https://developer.android.com/guide/topics/sensors/sensor
 
 </ul>
 
-<ul>
-
 ### Features NOT yet implemented
+
+<ul>
 
   <li>(NOT yet implemented) Add a delete button on the edit dialog to remove uploaded pictures</li>
 
- <li>(NOT yet implemented) Use a phone to help guid where to look for the objects</li>
+  <li>(NOT yet implemented) Use a phone to help guid where to look for the objects</li>
 
   <li>(NOT yet implemented) Share pictures and celestial coordinates</li>
 
   <li>(NOT yet implemented) See other users pictures</li>
 
+</ul>
+
   ### Stretch goals
+
+<ul>
 
   <li>Comment support for other user pictures.</li>
 
@@ -166,9 +170,15 @@ guide users to object](https://developer.android.com/guide/topics/sensors/sensor
 
   <li>Social media feed of other users' pictures.</li>
 
+</ul>
+
   ### Possible enhancements
 
+<ul>
+
   <li>Add interface to instruct smart-telescopes where to look</li>
+
+</ul>
 
 ### Style Updates
 
@@ -180,8 +190,7 @@ guide users to object](https://developer.android.com/guide/topics/sensors/sensor
 
 </ul>
 
-
---------
+---
 
 Copyright 2021 Russell Brazell, Daniel Arbach
 
@@ -197,7 +206,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
---------
+---
 
 ### [LICENSE](../docs/license.md)
 
