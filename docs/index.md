@@ -24,7 +24,12 @@ with the attached coordinates and help from your phone to point you in the right
 > potentially) a useful or interesting app?
 > 
 The topic of this app was chosen, because the members of our team share a love of science,
-particularly the exploration of outer space. The 
+particularly the exploration of outer space. We felt that there was a niche in hobby astronomers to
+share their photos and provide a convenient method to search and categorize images by
+astronomy-related topics. We feel that the most useful feature is discovering an interesting picture
+that someone else has posted to the app and being able to use the app's features to locate
+that same celestial body and orient one's camera, no matter how much time has elapsed or where the
+photographer is standing upon the Earth.
 
 After signing in, users will be able to take pictures of celestial objects and attach tags for easy
 categorization and searching. A user's own pictures will be displayed in a social media-style feed.
