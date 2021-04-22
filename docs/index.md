@@ -76,13 +76,7 @@ interesting objects with coordinates so that I can find them and see them for my
 
     <li>Sign in to an account with google authorization</li> <br>
   
-    <li>See other users pictures</li> <br>
-  
     <li>View coordinates of the focal point of the object</li> <br>
-  
-    <li>Use a phone to help guid where to look for the objects</li> <br>
-  
-    <li>Share pictures and celestial coordinates</li> <br>
 
   </ul>
 
@@ -100,14 +94,12 @@ interesting objects with coordinates so that I can find them and see them for my
 
 <ul>
 
-  <li>Full range of positing sensors (accelerometer, mag. field and gps) to capture coordinates and
-guide users to object- 
-    (https://developer.android.com/guide/topics/sensors/sensors_position) </li> <br>
+  * [Full range of positing sensors (accelerometer, mag. field and gps) to capture coordinates and
+guide users to object](https://developer.android.com/guide/topics/sensors/sensors_position) <br>
 
-  <li>Camera - 
-    (https://codelabs.developers.google.com/codelabs/camerax-getting-started#1)</li> <br>
+  * [Camera](https://developer.android.com/training/camerax/take-photo) <br>
 
-  <li>Stored files: if the picture is first loaded on to the phone </li><br>
+  * [Stored files: The picture is first stored on to the phone](https://developer.android.com/training/data-storage) <br>
   
 </ul>
 
@@ -117,8 +109,9 @@ guide users to object-
 
 <ul>
 
-  <li>Holding the pictures with coordinates of other users</li><br>
-  <li>Sign in to an account with google authorization</li><br>
+  <li>Holding the pictures with coordinates of other users</li> <br>
+
+  <li>Sign in to an account with google authorization</li> <br>
 
 </ul>
 
@@ -126,8 +119,9 @@ guide users to object-
 
 <ul>
 
-  <li>Users pictures and albums with tags and coordinates</li><br>
-  <li>A copy of user profiles</li><br>
+  <li>Users pictures and albums with tags and coordinates</li> <br>
+
+  <li>A copy of user profiles</li> <br>
 
 </ul>
 
@@ -136,19 +130,41 @@ guide users to object-
 <ul>
 
   <li>Database of celestial coordinates of the most popular objects - 
-    (https://github.com/astrocatalogs/OACAPI) & (https://github.com/astronexus/HYG-Database)</li><br>
+    (https://github.com/astrocatalogs/OACAPI) & (https://github.com/astronexus/HYG-Database)</li> <br>
 
 </ul>
 
-## Stretch goals/possible enhancements
+<ul>
+
+### <li>Features NOT yet implemented</li>
+
+ <li>(NOT yet implemented)Use a phone to help guid where to look for the objects</li>
+
+  <li>(NOT yet implemented)Share pictures and celestial coordinates</li>
+
+  <li>(NOT yet implemented)See other users pictures</li>
+
+  ### <li>Stretch goals</li>
+
+  <li>Comment support for other user pictures.</li>
+
+  <li>Bookmark favorite images</li>
+
+  <li>Ability to follow other users</li>
+
+  <li>Social media feed of other users' pictures.</li>
+
+  ### <li>Possible enhancements</li>
+
+  <li>Add interface to instruct smart-telescopes where to look</li>
+
+### Style Updates
 
 <ul>
 
-  <li>Ability to follow other users</li>
-  <li>Add interface to instruct smart-telescopes where to look</li>
-  <li>Bookmark favorite images</li>
-  <li>Social media feed of other users' pictures.</li>
-  <li>Comment support for each picture.</li>
+  <li>Add on brand colors</li>
+
+  <li>Make font and size consistent</li>
 
 </ul>
 
