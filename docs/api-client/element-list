@@ -1,0 +1,8 @@
+edu.cnm.deepdive.northstarsharingclient
+edu.cnm.deepdive.northstarsharingclient.adapter
+edu.cnm.deepdive.northstarsharingclient.controller.activity
+edu.cnm.deepdive.northstarsharingclient.controller.fragment
+edu.cnm.deepdive.northstarsharingclient.model
+edu.cnm.deepdive.northstarsharingclient.service
+edu.cnm.deepdive.northstarsharingclient.service.repository
+edu.cnm.deepdive.northstarsharingclient.viewmodel
