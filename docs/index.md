@@ -41,7 +41,7 @@ to the correct patch of night sky. (The heavens await!)
 
 ## [User Instructions](../docs/instructions.md)
 
-### [OverView](../docs/pdf/overview.pdf) 
+### [OverView](../pdf/overview.pdf) 
 
 ## Intended users
 
@@ -146,7 +146,7 @@ guide users to object](https://developer.android.com/guide/topics/sensors/sensor
 
 <ul>
 
-### <li>Features NOT yet implemented</li>
+### Features NOT yet implemented
 
   <li>(NOT yet implemented) Add a delete button on the edit dialog to remove uploaded pictures</li>
 
@@ -156,7 +156,7 @@ guide users to object](https://developer.android.com/guide/topics/sensors/sensor
 
   <li>(NOT yet implemented) See other users pictures</li>
 
-  ### <li>Stretch goals</li>
+  ### Stretch goals
 
   <li>Comment support for other user pictures.</li>
 
@@ -166,7 +166,7 @@ guide users to object](https://developer.android.com/guide/topics/sensors/sensor
 
   <li>Social media feed of other users' pictures.</li>
 
-  ### <li>Possible enhancements</li>
+  ### Possible enhancements
 
   <li>Add interface to instruct smart-telescopes where to look</li>
 
