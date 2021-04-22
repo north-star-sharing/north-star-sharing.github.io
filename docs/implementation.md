@@ -1,5 +1,8 @@
 ---
-
+title: Implementation of Service Classes
+description: Links to our code for the service classes
+menu: Service Classes
+order: 40
 ---
 
 ## Model
