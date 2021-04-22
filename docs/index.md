@@ -138,11 +138,13 @@ guide users to object](https://developer.android.com/guide/topics/sensors/sensor
 
 ### <li>Features NOT yet implemented</li>
 
- <li>(NOT yet implemented)Use a phone to help guid where to look for the objects</li>
+  <li>(NOT yet implemented) Add a delete button on the edit dialog to remove uploaded pictures</li>
 
-  <li>(NOT yet implemented)Share pictures and celestial coordinates</li>
+ <li>(NOT yet implemented) Use a phone to help guid where to look for the objects</li>
 
-  <li>(NOT yet implemented)See other users pictures</li>
+  <li>(NOT yet implemented) Share pictures and celestial coordinates</li>
+
+  <li>(NOT yet implemented) See other users pictures</li>
 
   ### <li>Stretch goals</li>
 
