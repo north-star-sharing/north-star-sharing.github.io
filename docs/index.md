@@ -29,44 +29,60 @@ Users may search for pictures of specific celestial objects from a robust list o
 Using a tag, a user may locate a celestial object using their camera, and the app will point them
 to the correct patch of night sky. (The heavens await!)
 
-## [Build Instructions](README.md)
+## [Build Instructions](../docs/build.md)
 
-## [User Instructions](docs/instructions.md)
+## [User Instructions](../docs/instructions.md)
 
 ## Intended users
 
 <ol>
 
-  <li>A person who loves taking special photos of the night sky and other celestial events</li><br>
+  <li>A person who loves taking special photos of the night sky and other celestial events</li> <br>
 
-<ul><li>As a person who loves to share the stunning pictures I take, I want a platform dedicated to
+<ul>
+
+<li>As a person who loves to share the stunning pictures I take, I want a platform dedicated to
 sharing pictures of the sky so that I can be inspired and share more of what I love with people that
-will appreciate it.</li></ul><br>
+will appreciate it.</li>
+
+</ul> <br>
 
   <li>A scientist looking to share information to help further discoveries</li><br>
 
-<ul><li>As a scientist, I understand that it is a privilege to have access to the worlds most
+<ul>
+
+<li>As a scientist, I understand that it is a privilege to have access to the worlds most
 powerful telescopes and I want to share those rare opportunities with the rest of the star gazing
-community so that I can have more people helping to unlock the mysteries of space.</li></ul><br>
+community so that I can have more people helping to unlock the mysteries of space.</li>
 
-  <li>A beginner star gazer looking to find beautiful stellar objects in the night sky</li><br>
+</ul> <br>
 
-<ul><li>As someone who is just getting into star gazing, I want to have access to a full library of 
-interesting objects with coordinates so that I can find them and see them for myself.</li></ul><br>
+  <li>A beginner star gazer looking to find beautiful stellar objects in the night sky</li> <br>
+
+<ul> 
+
+<li>As someone who is just getting into star gazing, I want to have access to a full library of 
+interesting objects with coordinates so that I can find them and see them for myself.</li> 
+
+</ul> <br>
 
 </ol>
 
 ## Client component
 
-* **Functionality**
+* **Functionality** <br>
 
   <ul>
 
-    <li>Sign in to an account with google authorization</li><br>
-    <li>See other users pictures</li><br>
-    <li>View coordinates of the focal point of the object</li><br>
-    <li>Use a phone to help guid where to look for the objects</li><br>
-    <li>Share pictures and celestial coordinates</li><br>
+    <li>Sign in to an account with google authorization</li> <br>
+  
+    <li>See other users pictures</li> <br>
+  
+    <li>View coordinates of the focal point of the object</li> <br>
+  
+    <li>Use a phone to help guid where to look for the objects</li> <br>
+  
+    <li>Share pictures and celestial coordinates</li> <br>
 
   </ul>
 
@@ -74,8 +90,9 @@ interesting objects with coordinates so that I can find them and see them for my
 
 <ul>
 
-  <li>Pictures to be uploaded</li><br>
-  <li>Profile data eg: name, user type...</li><br>
+  <li>Pictures to be uploaded</li> <br>
+
+  <li>Profile data eg: name, user type...</li> <br>
 
 </ul>
 
@@ -85,10 +102,10 @@ interesting objects with coordinates so that I can find them and see them for my
 
   <li>Full range of positing sensors (accelerometer, mag. field and gps) to capture coordinates and
 guide users to object- 
-    (https://developer.android.com/guide/topics/sensors/sensors_position)</li><br>
+    (https://developer.android.com/guide/topics/sensors/sensors_position) </li> <br>
 
   <li>Camera - 
-    (https://codelabs.developers.google.com/codelabs/camerax-getting-started#1)</li><br>
+    (https://codelabs.developers.google.com/codelabs/camerax-getting-started#1)</li> <br>
 
   <li>Stored files: if the picture is first loaded on to the phone </li><br>
   
