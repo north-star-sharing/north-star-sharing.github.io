@@ -43,6 +43,10 @@ to the correct patch of night sky. (The heavens await!)
 
 ### [OverView](../pdf/overview.pdf) 
 
+### [Technology Stack](../pdf/stack.pdf)
+
+### [REST Service Endpoints](../pdf/endpoints.pdf)
+
 ## Intended users
 
 <ol>
