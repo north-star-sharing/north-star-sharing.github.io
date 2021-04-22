@@ -2,7 +2,7 @@
 title: Implementation of Java Classes
 description: Links to our code for the service classes
 menu: Java Classes
-order: 40
+order: 50
 ---
 
 ## Model
