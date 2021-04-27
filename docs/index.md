@@ -13,8 +13,8 @@ order: 10
 ## Summary and Aim
 At North Star Sharing, we aim to bring the furthest reaches of the vast riches from outer space 
 within reach one picture at a time! Whether you love to capture beautiful long exposure photos of
-the night sky or the highly technical imagines produced by telescopes like The Giant Magellan 
-Telescope, we’ve got you covered. Easily share the captivating imagines you take alongside with the 
+the night sky or the highly technical images produced by telescopes like The Giant Magellan 
+Telescope, we’ve got you covered. Easily share the captivating images you take alongside with the 
 celestial coordinates to a community of fellow gazers! Explore other members’ photos and find them
 for yourself with the attached coordinates and help from your phone to point you in the right 
 direction.
