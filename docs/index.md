@@ -10,28 +10,30 @@ order: 10
 * Russell Brazell - [Github.com/rbrazell1](https://github.com/rbrazell1), [LinkedIn.com/in/russell-brazell-abq](https://www.linkedin.com/in/russell-brazell-abq/)
 * Daniel Arbach - [Github.com/darbach](https://github.com/darbach), [LinkedIn.com/in/daniel-arbach](https://www.linkedin.com/in/daniel-arbach/)
 
-## Summary
+## Summary and Aim
+At North Star Sharing, we aim to bring the furthest reaches of the vast riches from outer space 
+within reach one picture at a time! Whether you love to capture beautiful long exposure photos of
+the night sky or the highly technical imagines produced by telescopes like The Giant Magellan 
+Telescope, we’ve got you covered. Easily share the captivating imagines you take alongside with the 
+celestial coordinates to a community of fellow gazers! Explore other members’ photos and find them
+for yourself with the attached coordinates and help from your phone to point you in the right 
+direction.
 
-At North Star Sharing we aim to bring the furthest reaches of the vast riches from outer space
-within reach one picture at a time! Weather you love to capture beautiful long exposer photos of the
-night sky, or the highly technical imagines produced by telescopes like The Giant Magellan Telescope
-we’ve got you covered. Easily share the captivating imagines you take alongside with the Celestial
-Coordinates to a community of fellow gazers! Explore other members photos and find them for yourself
-with the attached coordinates and help from your phone to point you in the right direction.
-
-The topic of this app was chosen, because the members of our team share a love of science,
-particularly the exploration of outer space. We felt that there was a niche in hobby astronomers to
-share their photos and provide a convenient method to search and categorize images by
+The topic of this app was chosen because the members of our team share a love of science, 
+particularly the exploration of outer space. We felt that there was a niche opportunity with hobby
+astronomy to share photos and provide a convenient method to search and categorize images by
 astronomy-related topics. We feel that the most useful feature is discovering an interesting picture
-that someone else has posted to the app and being able to use the app's features to locate
-that same celestial body and orient one's camera, no matter how much time has elapsed or where the
+that someone else has posted to the app and being able to use the app's features to locate that same
+celestial body and orient one's camera, no matter how much time has elapsed or where the 
 photographer is standing upon the Earth.
 
+## Functionality 
+
 After signing in, users will be able to take pictures of celestial objects and attach tags for easy
-categorization and searching. A user's own pictures will be displayed in a social media-style feed.
+categorization and searching. A user's own pictures will be displayed in a social media-style feed. 
 Users may search for pictures of specific celestial objects from a robust list of available tags.
-Using a tag, a user may locate a celestial object using their camera, and the app will point them
-to the correct patch of night sky. (The heavens await!)
+Using a tag, a user may locate a celestial object using their camera, and the app will point them 
+to the correct patch of the night sky. (The heavens await!)
 
 ### [Build Instructions](build.md)
 
